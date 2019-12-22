@@ -1,2 +1,2 @@
 # NoireHook
-Reverse engineering of L.A. Noire for easy modding via API
+Reverse engineering of L.A. Noire to provide an API for easy modding
